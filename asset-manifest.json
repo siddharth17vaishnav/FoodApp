@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/www.siddharth17vaishnav.github.io/FoodApp/static/css/main.6ab819ff.chunk.css",
+    "main.js": "/www.siddharth17vaishnav.github.io/FoodApp/static/js/main.407de157.chunk.js",
+    "main.js.map": "/www.siddharth17vaishnav.github.io/FoodApp/static/js/main.407de157.chunk.js.map",
+    "runtime-main.js": "/www.siddharth17vaishnav.github.io/FoodApp/static/js/runtime-main.27c81ec1.js",
+    "runtime-main.js.map": "/www.siddharth17vaishnav.github.io/FoodApp/static/js/runtime-main.27c81ec1.js.map",
+    "static/css/2.aafe37f4.chunk.css": "/www.siddharth17vaishnav.github.io/FoodApp/static/css/2.aafe37f4.chunk.css",
+    "static/js/2.80420eb2.chunk.js": "/www.siddharth17vaishnav.github.io/FoodApp/static/js/2.80420eb2.chunk.js",
+    "static/js/2.80420eb2.chunk.js.map": "/www.siddharth17vaishnav.github.io/FoodApp/static/js/2.80420eb2.chunk.js.map",
+    "index.html": "/www.siddharth17vaishnav.github.io/FoodApp/index.html",
+    "static/css/2.aafe37f4.chunk.css.map": "/www.siddharth17vaishnav.github.io/FoodApp/static/css/2.aafe37f4.chunk.css.map",
+    "static/css/main.6ab819ff.chunk.css.map": "/www.siddharth17vaishnav.github.io/FoodApp/static/css/main.6ab819ff.chunk.css.map",
+    "static/js/2.80420eb2.chunk.js.LICENSE.txt": "/www.siddharth17vaishnav.github.io/FoodApp/static/js/2.80420eb2.chunk.js.LICENSE.txt",
+    "static/media/biryani.07794050.jpg": "/www.siddharth17vaishnav.github.io/FoodApp/static/media/biryani.07794050.jpg",
+    "static/media/burger.b63e0c7c.jpg": "/www.siddharth17vaishnav.github.io/FoodApp/static/media/burger.b63e0c7c.jpg",
+    "static/media/logo.f9c85581.png": "/www.siddharth17vaishnav.github.io/FoodApp/static/media/logo.f9c85581.png",
+    "static/media/noodle.661ac41b.jpg": "/www.siddharth17vaishnav.github.io/FoodApp/static/media/noodle.661ac41b.jpg",
+    "static/media/pavbhaji.10c3a1e6.jpg": "/www.siddharth17vaishnav.github.io/FoodApp/static/media/pavbhaji.10c3a1e6.jpg",
+    "static/media/samosa.48e3ba19.jpg": "/www.siddharth17vaishnav.github.io/FoodApp/static/media/samosa.48e3ba19.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27c81ec1.js",
+    "static/css/2.aafe37f4.chunk.css",
+    "static/js/2.80420eb2.chunk.js",
+    "static/css/main.6ab819ff.chunk.css",
+    "static/js/main.407de157.chunk.js"
+  ]
+}
